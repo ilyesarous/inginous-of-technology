@@ -1,0 +1,138 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    box-sizing: border-box;
+    padding:0 ;
+    margin: 0;
+}
+
+header{
+    background-color: rgb(235, 235, 235);
+}
+
+#logo{
+    margin-left: 100px;
+}
+
+#color{
+    margin-left: 100px;
+    margin-top: -10px;
+    width: 100px;
+    height: 1500px;
+    background-color: rgb(219, 219, 219);
+}
+
+.logo1{
+    margin-left: 230px;
+    margin-top: -70px;
+    padding-bottom: 28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.nav-bar{
+    float: right;
+    margin-right: 100px;
+    margin-top: -50px;
+}
+
+#home{
+    margin-right: 35px;
+}
+
+#home:hover{
+    background-color: white;
+}
+
+#about{
+    margin-right: 35px;
+}
+
+#about:hover{
+    background-color: white;
+}
+
+#service{
+    margin-right: 35px;
+}
+
+#service:hover{
+    background-color: white;
+}
+
+#contact{
+    margin-right: 35px;
+}
+
+#contact:hover{
+    background-color: white;
+}
+
+#title{
+    margin-left: 150px;
+    margin-top: -1450px;
+    font-size: xx-large;
+    font-family: monospace;
+    text-align: center;
+}
+
+#img{
+    margin-left: 280px;
+    margin-top: -10px;
+}
+
+#top{
+    color: blue;
+    text-decoration: underline;
+}
+
+h2{
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+#section1{
+    margin-left: 300px;
+    margin-top: 200px;
+    text-align: justify;
+    width: 1040px;
+}
+
+#section2{
+    margin-left: 300px;
+    margin-top: 100px;
+    text-align: justify;
+    width: 1040px;
+}
+
+footer{
+    margin-top: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 680px;
+    
+}
+#ctat{
+    font-size: large;
+}
+#fb{
+    margin-left: 180px;
+    margin-top: -40px;
+}
+#gm{
+    margin-left: 230px;
+    margin-top: -35px;
+}
+#flche{
+    position: fixed;;
+    bottom: 40px;
+    right: 50px;
+    border-radius: 50px;
+    display: none;
+}
